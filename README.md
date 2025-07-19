@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Pappala</h1>
-<h3 align="center">💻 Full-Stack Developer | 🚀 Web Dev Enthusiast | 💡 Lifelong Learner</h3>
+<h3 align="center"> 🚀 Web Dev Enthusiast |💻 competitive programmer | 💡 Lifelong Learner</h3>
 
 ---
 
