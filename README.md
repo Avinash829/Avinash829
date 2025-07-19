@@ -55,8 +55,7 @@
   <a href="https://www.linkedin.com/in/avinashpappala"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Avinash829"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:avinashpappala@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/avinash_829/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/avinash_829"><img src="https://img.shields.io/badge/CodeChef-black?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+ </a>
 </p>
 
 ---
@@ -65,11 +64,6 @@
 
 > “Stay hungry. Stay foolish.” – Steve Jobs
 
----
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Avinash829&theme=dracula&hide_border=true" />
-</p>
 
 ---
 
