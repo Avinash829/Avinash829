@@ -8,6 +8,7 @@
 - 📚 Practicing DSA daily
 - 🧠 Learning by building: **From dummy UIs to real-time apps**
 - 📫 Reach me at: **avinashpappala@gmail.com**
+- 🌐 Check out my portfolio: **[avinashpappala829.pages.dev](https://avinashpappala829.pages.dev/)**
 
 ---
 
@@ -52,10 +53,10 @@
 ## 🌐 Connect with Me
 
 <p align="center">
+  <a href="https://avinashpappala829.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/avinashpappala"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Avinash829"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:avinashpappala@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- </a>
 </p>
 
 ---
@@ -63,7 +64,6 @@
 ## 🧠 Quote I Live By
 
 > “Stay hungry. Stay foolish.” – Steve Jobs
-
 
 ---
 
