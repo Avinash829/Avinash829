@@ -8,7 +8,7 @@
 - 📚 Practicing **DSA daily**  
 - 🧠 Learning by building: **From dummy UIs to real-time apps**  
 - 📫 Reach me at: **avinashpappala@gmail.com | +91 6300768805**  
-- 🌐 Portfolio: **[Netlify](https://avinashpappala.netlify.app)**  
+- 🌐 Portfolio: **[avinashpappala](https://avinashpappala.netlify.app)**  
 - 🔗 Connect: [LinkedIn](https://www.linkedin.com/in/avinashpappala) | [GitHub](https://github.com/Avinash829) | [LeetCode](https://leetcode.com/) | [CodeChef](https://www.codechef.com/)
 
 ---
