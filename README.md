@@ -1,59 +1,81 @@
 <h1 align="center">Hi 👋, I'm Avinash Pappala</h1>
-<h3 align="center"> 🚀 Web Dev |💻 Competitive programmer | 💡 Lifelong Learner</h3>
+<h3 align="center">🚀 Web Developer | 💻 Competitive Programmer | 💡 Lifelong Learner</h3>
 
 ---
 
-- 🌟 I'm a Computer Science student passionate about **coding, UI/UX, and real-world problem solving**
-- 💬 Ask me about **React.js, Node.js, Express, MongoDB, JavaScript, Python**
-- 📚 Practicing DSA daily
-- 🧠 Learning by building: **From dummy UIs to real-time apps**
-- 📫 Reach me at: **avinashpappala@gmail.com**
-- 🌐 Check out my portfolio: **[avinashpappala829.pages.dev](https://avinashpappala829.pages.dev/)**
+- 🌟 I'm a Computer Science student passionate about **coding, UI/UX, and real-world problem solving**  
+- 💬 Ask me about **React.js, Node.js, Express, MongoDB, JavaScript, Python**  
+- 📚 Practicing **DSA daily**  
+- 🧠 Learning by building: **From dummy UIs to real-time apps**  
+- 📫 Reach me at: **avinashpappala@gmail.com | +91 6300768805**  
+- 🌐 Portfolio: **[Netlify](https://avinashpappala.netlify.app)**  
+- 🔗 Connect: [LinkedIn](https://www.linkedin.com/in/avinashpappala) | [GitHub](https://github.com/Avinash829) | [LeetCode](https://leetcode.com/) | [CodeChef](https://www.codechef.com/)
 
 ---
 
-## 🚀 Tech Stack
-
-### 🔧 Languages & Scripting
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-
-### 🔙 Backend & Databases
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-### ⚙️ Tools & IDEs
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+## 🎓 Education
+**Vignan’s Institute of Information Technology** – BTech in Computer Science (2023 – 2027)  
+CGPA: 9.22  
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avinash829&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash829&layout=compact&theme=tokyonight" height="150" />
-</p>
+**Full Stack Developer Intern** – Willowave Platform Pvt. Ltd. (Remote) | Sept 2025 – Present  
+- Built and integrated REST APIs for client applications.  
+- Implemented LangChain-based AI features and optimized existing workflows.  
+- Collaborated on full-stack development with a focus on performance and seamless integration.  
+- **Tools:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, LangChain, Git  
+
+**Frontend Developer Intern** – ZORO Innovations (Remote) | June 2025 – July 2025  
+- Contributed to Campus Core, a campus management platform for students, faculty, and admins.  
+- Built the Student Dashboard for managing attendance, timetable, results, and feedback.  
+- Worked closely with backend and UI teams to integrate APIs for smooth UX.  
+- **Tools:** React.js, Tailwind CSS, Vite, Figma, Git, REST APIs  
+
+---
+
+## 🚀 Projects
+
+**Chatterly – Real-Time Chat Application** | [GitHub](#) | [Live](#)  
+- Built a real-time chat app supporting one-on-one and group messaging.  
+- Integrated authentication, end-to-end encryption, and live updates via WebSockets.  
+- Developed a responsive UI with dynamic mobile and desktop views.  
+- **Tools:** React.js, Node.js, Express.js, MongoDB, Socket.io, Tailwind CSS  
+
+**Health AI Assistant** | [GitHub](#) | [Live](#)  
+- AI-powered assistant analyzing health reports (PDFs) for patient summaries and doctor-level insights.  
+- Features include symptom detection, treatment suggestions, and dynamic health chatbot.  
+- Full-stack development with Gemini AI integration for accurate medical interpretation.  
+- **Tools:** Python, Gemini AI, Streamlit  
+
+**SafeSeek** | [GitHub](#) | [Live](#)  
+- Real-time text classification tool promoting respectful communication via Perspective API.  
+- Labels input as Positive, Negative (toxic), or Neutral and blocks toxic content via Chrome extension.  
+- **Tools:** React, TypeScript, Perspective API, Python  
+
+---
+
+## 🛠 Skills
+
+**Languages:** Python, JavaScript, Java, SQL, C  
+**Frameworks & Libraries:** React.js, Node.js, Express.js, LangChain, LangGraph, Firebase, Tailwind CSS  
+**Databases:** MongoDB, MySQL  
+**Developer Tools:** Git, GitHub, VS Code, PyCharm, LangSmith  
+
+---
+
+## 🏆 Achievements
+- Achieved **2* on CodeChef** (highest rating: 1463), top 20% on LeetCode (highest rating: 1647)  
+- Solved **500+ problems** across CodeChef, LeetCode, and GeeksforGeeks  
+- **GeeksforGeeks Campus Body Lead**  
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://avinashpappala829.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://avinashpappala.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/avinashpappala"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Avinash829"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:avinashpappala@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
