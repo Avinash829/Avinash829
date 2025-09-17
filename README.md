@@ -3,72 +3,69 @@
 
 ---
 
-- 🌟 I'm a Computer Science student passionate about **coding, UI/UX, and real-world problem solving**  
-- 💬 Ask me about **React.js, Node.js, Express, MongoDB, JavaScript, Python**  
-- 📚 Practicing **DSA daily**  
-- 🧠 Learning by building: **From dummy UIs to real-time apps**  
-- 📫 Reach me at: **avinashpappala@gmail.com | +91 6300768805**  
-- 🌐 Portfolio: **[avinashpappala](https://avinashpappala.netlify.app)**  
-- 🔗 Connect: [LinkedIn](https://www.linkedin.com/in/avinashpappala) | [GitHub](https://github.com/Avinash829) | [LeetCode](https://leetcode.com/) | [CodeChef](https://www.codechef.com/)
+<p align="center">
+  <a href="https://avinashpappala.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/avinashpappala"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Avinash829"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:avinashpappala@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🎓 Education
-**Vignan’s Institute of Information Technology** – BTech in Computer Science (2023 – 2027)  
-CGPA: 9.22  
+## 🌟 About Me
+- 🎓 Computer Science student at **Vignan’s Institute of Information Technology**  
+- 💻 Passionate about **Web Development, UI/UX, and AI-powered apps**  
+- 📚 Practicing **DSA & Competitive Programming** daily  
+- 🌱 Exploring **AI, LangChain, and real-time web apps**  
+- 🧩 I love building **interactive and responsive applications**  
+- ⚡ Fun fact: “Stay hungry. Stay foolish.” – Steve Jobs
 
 ---
 
-## 💼 Experience
+## 🛠 Tech Stack
 
-**Full Stack Developer Intern** – Willowave Platform Pvt. Ltd. (Remote) | Sept 2025 – Present  
-- Built and integrated REST APIs for client applications.  
-- Implemented LangChain-based AI features and optimized existing workflows.  
-- Collaborated on full-stack development with a focus on performance and seamless integration.  
-- **Tools:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, LangChain, Git  
+### 💻 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-555555?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Frontend Developer Intern** – ZORO Innovations (Remote) | June 2025 – July 2025  
-- Contributed to Campus Core, a campus management platform for students, faculty, and admins.  
-- Built the Student Dashboard for managing attendance, timetable, results, and feedback.  
-- Worked closely with backend and UI teams to integrate APIs for smooth UX.  
-- **Tools:** React.js, Tailwind CSS, Vite, Figma, Git, REST APIs  
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🔙 Backend & Databases
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### ⚙️ Tools & IDEs
+![VS Code](https://img.shields.io/badge/-VS%20Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
 ## 🚀 Projects
-
-**Chatterly – Real-Time Chat Application** | [GitHub](#) | [Live](#)  
-- Built a real-time chat app supporting one-on-one and group messaging.  
-- Integrated authentication, end-to-end encryption, and live updates via WebSockets.  
-- Developed a responsive UI with dynamic mobile and desktop views.  
-- **Tools:** React.js, Node.js, Express.js, MongoDB, Socket.io, Tailwind CSS  
-
-**Health AI Assistant** | [GitHub](#) | [Live](#)  
-- AI-powered assistant analyzing health reports (PDFs) for patient summaries and doctor-level insights.  
-- Features include symptom detection, treatment suggestions, and dynamic health chatbot.  
-- Full-stack development with Gemini AI integration for accurate medical interpretation.  
-- **Tools:** Python, Gemini AI, Streamlit  
-
-**SafeSeek** | [GitHub](#) | [Live](#)  
-- Real-time text classification tool promoting respectful communication via Perspective API.  
-- Labels input as Positive, Negative (toxic), or Neutral and blocks toxic content via Chrome extension.  
-- **Tools:** React, TypeScript, Perspective API, Python  
+- **Chatterly** – Real-time chat app with WebSockets 🔗 [GitHub](#) | [Live](#)  
+- **Health AI Assistant** – AI-powered health report analyzer 🔗 [GitHub](#) | [Live](#)  
+- **SafeSeek** – Text classification & Chrome extension for safe browsing 🔗 [GitHub](#) | [Live](#)  
 
 ---
 
-## 🛠 Skills
+## 📈 GitHub Stats
 
-**Languages:** Python, JavaScript, Java, SQL, C  
-**Frameworks & Libraries:** React.js, Node.js, Express.js, LangChain, LangGraph, Firebase, Tailwind CSS  
-**Databases:** MongoDB, MySQL  
-**Developer Tools:** Git, GitHub, VS Code, PyCharm, LangSmith  
-
----
-
-## 🏆 Achievements
-- Achieved **2* on CodeChef** (highest rating: 1463), top 20% on LeetCode (highest rating: 1647)  
-- Solved **500+ problems** across CodeChef, LeetCode, and GeeksforGeeks  
-- **GeeksforGeeks Campus Body Lead**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avinash829&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash829&layout=compact&theme=tokyonight" height="150" />
+</p>
 
 ---
 
@@ -83,10 +80,4 @@ CGPA: 9.22
 
 ---
 
-## 🧠 Quote I Live By
-
 > “Stay hungry. Stay foolish.” – Steve Jobs
-
----
-
-**Thanks for visiting my profile! Feel free to star any project you liked 💖**
