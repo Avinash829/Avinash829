@@ -51,21 +51,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
 
-## 🚀 Projects
-- **Chatterly** – Real-time chat app with WebSockets 🔗 [GitHub](#) | [Live](#)  
-- **Health AI Assistant** – AI-powered health report analyzer 🔗 [GitHub](#) | [Live](#)  
-- **SafeSeek** – Text classification & Chrome extension for safe browsing 🔗 [GitHub](#) | [Live](#)  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avinash829&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash829&layout=compact&theme=tokyonight" height="150" />
-</p>
 
 ---
 
