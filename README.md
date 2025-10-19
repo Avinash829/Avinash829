@@ -24,22 +24,6 @@
 
 ---
 
-## 💼 Experience
-
-### 🧠 **Software Developer Intern – WilloWave** *(Remote | Sep 2025 – Present)*
-- Enhanced UI responsiveness using **Next.js**, **Tailwind CSS**, and **TypeScript**.  
-- Built and optimized **backend APIs** with **Express.js** and **MongoDB**.  
-- Integrated **LangGraph**, **LangChain**, and **OpenRouter** for AI workflows.  
-- **Tech Stack:** Next.js, Tailwind CSS, TypeScript, Express.js, MongoDB, LangChain, Git.
-
-### 💡 **Software Developer Intern – ZORO Innovations** *(Remote | Jun 2025 – Jul 2025)*
-- Built the **Student Dashboard** for attendance, results, and feedback management.  
-- Converted Figma designs into responsive UI using **React.js** and **Tailwind CSS**.  
-- Integrated **frontend components with REST APIs** for seamless performance.  
-- **Tech Stack:** React.js, Tailwind CSS, Vite, Figma, REST APIs.
-
----
-
 ## 🏆 Achievements
 
 - 🥈 **CodeChef 2★** (Highest Rating: 1463)  
