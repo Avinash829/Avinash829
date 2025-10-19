@@ -20,7 +20,6 @@
 - 📚 Solving **DSA & Competitive Programming** problems daily  
 - 🌱 Currently exploring **LangGraph**, **AI agents**, and **real-time apps**  
 - 🧩 I love building **interactive, scalable, and responsive applications**  
-- ⚡ Fun fact: *“Stay hungry. Stay foolish.” – Steve Jobs*
 
 ---
 
