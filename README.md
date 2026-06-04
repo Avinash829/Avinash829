@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Pappala</h1>
-<h3 align="center">🚀 Web Developer | 💻 Competitive Programmer | 💡 Lifelong Learner</h3>
+<h3 align="center">🚀 Web Developer | 💻 Competitive Programmer | 💡 FreeLancer</h3>
 
 ---
 
