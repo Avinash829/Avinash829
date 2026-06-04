@@ -25,8 +25,8 @@
 
 ## 🏆 Achievements
 
-- 🥈 **CodeChef 2★** (Highest Rating: 1463)  
-- 💪 **Top 12% on LeetCode** (Highest Rating: 1724)  
+- 🥈 **CodeChef 2★** (Highest Rating: 1565)  
+- 💪 **LeetCode Knight(Top 4%)** (Highest Rating: 1931)  
 - 🧮 Solved **500+ DSA problems** across CodeChef, LeetCode, and GFG  
 - 💬 **GeeksforGeeks Campus Body Lead**  
 - ⚙️ **GDG OnCampus Technical Lead (2025–26)**  
