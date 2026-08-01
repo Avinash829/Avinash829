@@ -78,13 +78,6 @@
     <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash829&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Avinash829&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
 
 ---
 
